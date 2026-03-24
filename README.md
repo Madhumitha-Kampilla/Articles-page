@@ -24,10 +24,10 @@ A simple and responsive Articles Page built using HTML, CSS, and Bootstrap.
 - Debugging layout issues in browser
 
 ## 🔗 Live Demo
-👉 https://madhumitha-kampilla.github.io/articles-page/
+👉 https://madhumitha-kampilla.github.io/Articles-page/
 
 ## 📌 GitHub Repository
-👉 https://github.com/madhumitha-kampilla/articles-page
+👉 https://github.com/madhumitha-kampilla/Articles-page
 
 ## 📌 Author
 - Kampilla Madhumitha
